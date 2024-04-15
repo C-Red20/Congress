@@ -1,0 +1,15 @@
+.pageHeader {
+    text-align: center;
+    margin: 2em;
+}
+
+.joe {
+    text-align: center;
+    border-bottom: 1.5em;
+}
+
+.list {
+    flex-basis: 25%;
+    flex-wrap: wrap;
+    justify-content:baseline
+}
