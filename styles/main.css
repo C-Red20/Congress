@@ -8,8 +8,24 @@
     border-bottom: 1.5em;
 }
 
+.image {
+    border-radius: 8px;
+}
+
 .list {
-    flex-basis: 25%;
+    padding: 2px;
+}
+
+.legislation {
+    display: flex;
     flex-wrap: wrap;
-    justify-content:baseline
+    justify-content: space-evenly;
+}
+
+.legList {
+    flex-basis: 25%;
+    border: 1px dotted black;
+    padding: 0.25em;
+    padding-right: 2em;
+    text-align: left;
 }
