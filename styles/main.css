@@ -3,13 +3,16 @@
     margin: 2em;
 }
 
-.joe {
+.alex {
     text-align: center;
     border-bottom: 1.5em;
 }
 
 .image {
-    border-radius: 8px;
+    height: 10em;
+    width: auto;
+    display: flex;
+    justify-content: center;
 }
 
 .list {
